@@ -19,4 +19,3 @@ name_hash.each do |key, value|
   end
 end
 end
-end
