@@ -7,6 +7,7 @@ if name_hash.length == 0
 else
   array =[]
   name_hash.each do |array, i|
-    array << 
+    array << i
 end
-end
+min_value = array[0]
+array.each do |
